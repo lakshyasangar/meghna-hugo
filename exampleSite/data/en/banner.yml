@@ -9,6 +9,6 @@ banner:
     technology. I encourage you to explore my case studies and profile reflecting
     my critical thought process.
   button:
-    enable: false
-    label: Explore Us
+    enable: true
+    label: Explore
     link: "#services"
