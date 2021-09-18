@@ -4,10 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Hello
-  content: Blog of a business analytics enthusiast with a background in Information
-    technology. I encourage you to explore my case studies and profile reflecting
-    my critical thought process.
+  title: Lakshya Sangar
+  content: Business Intelligence and analytics enthusiast with a background in Information
+    technology.
   button:
     enable: true
     label: Explore
