@@ -3,10 +3,10 @@ service:
   enable: true
   title: Interests
   service_item:
-  - name: WordPress Theme
+  - name: Film Making
     icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: I enjoy making short movies, it's a fun activity to exercise my skill
+      of story telling.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
