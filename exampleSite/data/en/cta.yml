@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: "\"The world is one big data problem"
+  title: '"The world is one big data problem"'
   content: "- Andrew McAfee"
   button:
     enable: false
