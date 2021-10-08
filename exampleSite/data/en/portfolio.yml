@@ -11,7 +11,7 @@ portfolio:
     link: ''
   - name: Effective management consultancy
     image: images/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image_webp: images/portfolio-2.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
