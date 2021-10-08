@@ -10,17 +10,13 @@ feature:
   feature_item:
   - title: Information backed Insights
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ''
   - title: 'Bespoke customisation '
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ''
   - title: Marketable approach
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ''
   - title: Increased reach
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ''
