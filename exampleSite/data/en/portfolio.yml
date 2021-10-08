@@ -1,59 +1,41 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: How do I do it?
   portfolio_item:
-  - name: Design
+  - name: Decision Modelling
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
-  - name: Sound system
+    link: ''
+  - name: Effective management consultancy
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Clock Product
+  - name: Descriptive Analytics
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Bottol Label
+    link: ''
+  - name: Performance Analytics
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Shopping Bag
+    link: ''
+  - name: Data Mining
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Tag Design
+    link: ''
+  - name: Software Analytics
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
-    categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
-    categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    link: ''
