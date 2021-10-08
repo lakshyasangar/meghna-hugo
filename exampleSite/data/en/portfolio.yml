@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: How do I do it?
+  title: How it happens?
   portfolio_item:
   - name: Decision Modelling
     image: images/portfolio/portfolio-1.jpg
