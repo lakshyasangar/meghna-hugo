@@ -4,22 +4,23 @@ feature:
   image: images/about-business-man.jpg
   image_webp: images/about-business-man.webp
   title: I am a story teller...
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  content: One of the best ways to captivate and communicate with an audience or stakeholders
+    is using the magical way of storytelling. By the use of my data analytical skills,
+    I intend to describe the hidden story behind the numbers.
   feature_item:
-  - title: SEO Optimized
+  - title: Information backed Insights
     icon: ti-world
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
+  - title: 'Bespoke customisation '
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: SEO Optimized
+  - title: Marketable approach
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
+  - title: Increased reach
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
