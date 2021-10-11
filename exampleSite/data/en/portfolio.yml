@@ -28,8 +28,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Data Mining
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image: images/portfolio-5.jpg
+    image_webp: ''
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
