@@ -22,8 +22,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Performance Analytics
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: images/portfolio-4.jpg
+    image_webp: ''
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
