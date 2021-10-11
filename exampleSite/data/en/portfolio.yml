@@ -16,8 +16,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Descriptive Analytics
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+    image: images/portfolio-3.jpg
+    image_webp: ''
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
