@@ -34,8 +34,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Software Analytics
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
+    image: images/portfolio-6-2.jpg
+    image_webp: ''
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
