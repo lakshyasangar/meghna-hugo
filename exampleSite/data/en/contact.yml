@@ -12,7 +12,7 @@ contact:
   - icon: ti-mobile
     info: 'Phone: +44 07436966677'
   - icon: ti-email
-    info: 'Email: lakshyasangar97@gmail.com'
+    info: 'Email: lakshyasangar@gmail.com'
   contact_form:
     enable: true
     form_action: "#"
