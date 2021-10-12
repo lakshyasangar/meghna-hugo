@@ -19,8 +19,6 @@
   translation: Service
 - id: portfolio
   translation: Portfolio
-- id: team
-  translation: Team
 - id: pricing
   translation: Pricing
 - id: blog
