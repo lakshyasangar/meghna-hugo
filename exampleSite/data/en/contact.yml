@@ -15,7 +15,7 @@ contact:
     info: 'Email: lakshyasangar@gmail.com'
   contact_form:
     enable: true
-    form_action: "#lakshyasangar@gmail.com"
+    form_action: mailto:lakshyasangar@gmail.com
     name: Your Name
     email: Your Email
     subject: Subject
