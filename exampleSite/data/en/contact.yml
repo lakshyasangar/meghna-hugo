@@ -15,7 +15,7 @@ contact:
     info: 'Email: lakshyasangar@gmail.com'
   contact_form:
     enable: true
-    form_action: "#mailto:lakshyasangar@gmail.com"
+    form_action: "#https://mail.google.com/mail/u/1/?ogbl#inbox?compose=new"
     name: Your Name
     email: Your Email
     subject: Subject
