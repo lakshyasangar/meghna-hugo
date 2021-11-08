@@ -2,7 +2,7 @@
 title: Python vs R, which is better ?
 date: 2021-10-01T08:48:00+00:00
 image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image: "/images/rvspython.png"
 author: Lakshya Sangar
 description: How does python and R differ in terms of usability and capacity.
 
