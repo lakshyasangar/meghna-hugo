@@ -16,7 +16,7 @@ The variables considered in this case study in our database consist of :
 * Years in education
 * Number of dependents
 
-![](/images/screenshot-2021-12-22-at-20-54-59.png)
+![](/images/screenshot_2021-12-22_at_20-54-59_30.png)
 
 > Hourly wages in the UK depend the most on years of education.
 
