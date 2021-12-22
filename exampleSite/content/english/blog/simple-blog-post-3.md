@@ -2,7 +2,7 @@
 title: UK hourly wages case study
 date: 2021-11-29T07:52:36+00:00
 image_webp: "/images/ezgif-3-81eeaca368.webp"
-image: images/blog/blog-post-1.jpg
+image: "/images/ezgif-3-81eeaca368.webp"
 author: Lakshya Sangar
 description: This is meta description
 
