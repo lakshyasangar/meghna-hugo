@@ -24,6 +24,12 @@ To clean the data, rows corresponding to fields with null values were eliminated
 
 **Visualisation**
 
-To understand relationships between variables, data visualisation have bee produced given below :
+To understand relationships between variables, data visualisation have been produced given below :
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+![](/images/screenshot-2021-12-23-at-01-07-58.png)
+
+The relationship between frequency and hourly wage on the x-axis signify the steep decline from population that have an hourly wage less than 5 with north of 200 to 10 and above with a population just short of 75, clearly suggesting the obvious fact that the number of high wage workers tend to decrease as the wage numbers rise.
+
+![](/images/screenshot-2021-12-23-at-01-09-22.png)
+
+This graph highlights the observations about our categorical variables of gender and race, highlighting the presence of male individuals having higher wages than females. It's also worth noticing that despite non-white males have higher overall mean value in the box higher than white males, white males have higher outliers in the graph, suggesting that individually, white males earn the highest of the bunch.
