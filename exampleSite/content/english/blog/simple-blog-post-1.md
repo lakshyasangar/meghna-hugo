@@ -1,8 +1,8 @@
 ---
 title: Downsizing problem using decision models
 date: 2021-11-12T07:52:36+00:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: "/images/ezgif-5-fd5c35c5c4.webp"
+image: "/images/ezgif-5-fd5c35c5c4.webp"
 author: Lakshya Sangar
 description: This is meta description
 
