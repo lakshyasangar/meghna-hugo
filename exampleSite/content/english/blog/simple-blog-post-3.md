@@ -33,3 +33,5 @@ The relationship between frequency and hourly wage on the x-axis signify the ste
 ![](/images/screenshot-2021-12-23-at-01-09-22.png)
 
 This graph highlights the observations about our categorical variables of gender and race, highlighting the presence of male individuals having higher wages than females. It's also worth noticing that despite non-white males have higher overall mean value in the box higher than white males, white males have higher outliers in the graph, suggesting that individually, white males earn the highest of the bunch.
+
+**Regression**
