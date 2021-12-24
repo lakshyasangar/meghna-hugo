@@ -22,6 +22,10 @@ The inventory of our problem statement consists of gadgets such as laptops, prin
 
   These constraints are represented numerically in a table below :
 
+![](/images/screenshot-2021-12-24-at-14-18-12.png)
+
+Using excel solver to input the constraints given in the table while keeping the objective function to minimise the cost of liquidation, we get out solution.
+
 > The aim is to minimise the liquidation cost, while respecting all the constraints.
 
 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
